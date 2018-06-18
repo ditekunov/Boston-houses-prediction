@@ -23,3 +23,13 @@ Short description of the dataset, that was used ():
 | KNN classifier with 3 NN    | 80 %     | 89 %      | 84 %   | 85 %      | 
 | Decision tree               | 76 %     | 82 %      | 76 %   | 79 %      | 
 
+
+### Outcome regression models metrics:
+| Model name                                                         | Accuracy |
+|--------------------------------------------------------------------|----------|
+| Basic linear regression, 1000 iterations                           | 84 %     |
+| Linear regression without 'zn' and 'nox' features, 1000 iterations | 82 %     |
+| Linear regression without 'zn' and 'nox' features                  | 79 %     |
+| Linear regression without 'zn' feature                             | 76 %     |
+| Basic linear regression                                            | 73 %     |
+| Linear regression using 'ID' feature                               | 70 %     |
