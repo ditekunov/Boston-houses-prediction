@@ -3,22 +3,22 @@ This work contains a set of different models, that predict the price of Boston h
 
 Short description of the dataset, that was used (https://www.kaggle.com/c/boston-housing):
 
-| Feature     | Description                        | Type    | Example             |
-|-------------|------------------------------------|---------|---------------------|
-| *crim*      | per capita crime rate by town.          ||    |
-| *zn*        | proportion of residential land zoned for lots over 25,000 sq.ft.        |   |         |
-| *indus*     | proportion of non-retail business acres per town. | |  |
-| *chas*      | Charles River dummy variable | |  |
-| *nox*       | nitrogen oxides concentration (parts per 10 million). |  |                    |
-| *rm*        | average number of rooms per dwelling. |  |                    |
-| *age*       | proportion of owner-occupied units built prior to 1940. |  |                    |
-| *dis*       | weighted mean of distances to five Boston employment centres. |  |                    |
-| *rad*       | index of accessibility to radial highways. |  |                    |
-| *tax*       | full-value property-tax rate per $10,000. |  |                    |
-| *ptratio*   | pupil-teacher ratio by town. |  |                    |
-| *black*     | 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town. |  |                    |
-| *lstat*     | lower status of the population (percent). |  |                    |
-| *medv*      | median value of owner-occupied homes in $1000s. |  |                    |
+| Feature     | Description                                                     | Type    | Example             |
+|-------------|-----------------------------------------------------------------|---------|---------------------|
+| *crim*      | per capita crime rate by town.                                  | Numeric | 0.00632                    |
+| *zn*        | proportion of residential land zoned for lots over 25,000 sq.ft.| Numeric | 18                    |
+| *indus*     | proportion of non-retail business acres per town.               | Numeric | 2.31                    |
+| *chas*      | Charles River dummy variable                                    | Boolean | 0                  |
+| *nox*       | nitrogen oxides concentration (parts per 10 million).           | Numeric | 538                   |
+| *rm*        | average number of rooms per dwelling.                           | Numeric | 6575                   |
+| *age*       | proportion of owner-occupied units built prior to 1940.         | Numeric | 65.2                   |
+| *dis*       | weighted mean of distances to five Boston employment centres.   | Numeric | 4.09                   |
+| *rad*       | index of accessibility to radial highways.                      | Numeric | 1                   |
+| *tax*       | full-value property-tax rate per $10,000.                       | Numeric | 296                   |
+| *ptratio*   | pupil-teacher ratio by town.                                    | Numeric | 15.3                   |
+| *black*     | 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town. | Numeric | 396.9                   |
+| *lstat*     | lower status of the population (percent).                       | Numeric | 4.98                   |
+| *medv*      | median value of owner-occupied homes in $1000s.                 | Numeric | 24                   |
 
 
 
