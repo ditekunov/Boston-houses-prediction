@@ -35,6 +35,19 @@ Short description of the dataset, that was used (https://www.kaggle.com/c/boston
 | Decision tree               | 76 %     | 82 %      | 76 %   | 79 %      | 
 
 
+### Outcome 10-classes models metrics:
+
+| Model name                  | Accuracy | Precision | Recall | F-measure |
+|-----------------------------|----------|-----------|--------|-----------|
+| Random forest with 580 trees| 58 %     | 72 %      | 58 %   | 62 %      | 
+| Bagged decision tree        | 55 %     | 69 %      | 55 %   | 59 %      | 
+| KNN classifier with 3 NN    | 50 %     | 71 %      | 48 %   | 56 %      |
+| Logistic regression         | 43 %     | 55 %      | 43 %   | 46 %      |
+| Linear regression           | 73 %     | 41 %      | 31 %   | 30 %      |
+| Decision tree               | 36 %     | 40 %      | 36 %   | 35 %      |
+
+
+
 ### Outcome regression models metrics:
 | Model name                                                         | Accuracy |
 |--------------------------------------------------------------------|----------|
