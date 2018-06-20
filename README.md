@@ -45,15 +45,3 @@ Short description of the dataset, that was used (https://www.kaggle.com/c/boston
 | Logistic regression         | 43 %     | 55 %      | 43 %   | 46 %      |
 | Linear regression           | 73 %     | 41 %      | 31 %   | 30 %      |
 | Decision tree               | 36 %     | 40 %      | 36 %   | 35 %      |
-
-
-
-### Outcome regression models metrics:
-| Model name                                                         | Accuracy |
-|--------------------------------------------------------------------|----------|
-| Basic linear regression, 1000 iterations                           | 84 %     |
-| Linear regression without 'zn' and 'nox' features, 1000 iterations | 82 %     |
-| Linear regression without 'zn' and 'nox' features                  | 79 %     |
-| Linear regression without 'zn' feature                             | 76 %     |
-| Basic linear regression                                            | 73 %     |
-| Linear regression using 'ID' feature                               | 70 %     |
