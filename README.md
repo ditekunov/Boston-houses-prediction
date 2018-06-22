@@ -45,3 +45,5 @@ Short description of the dataset, that was used (https://www.kaggle.com/c/boston
 | Logistic regression         | 43 %     | 55 %      | 43 %   | 46 %      |
 | Linear regression           | 73 %     | 41 %      | 31 %   | 30 %      |
 | Decision tree               | 36 %     | 40 %      | 36 %   | 35 %      |
+
+### Outcome clustering models metrics:
